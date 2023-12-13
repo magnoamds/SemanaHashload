@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="AgendaLaz.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="104" Y="23"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Delphi\App.Router.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="37" Y="28"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DM"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="uDM"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="3"/>
+        <CursorPos X="62" Y="6"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="app.service.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="App.Service"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="196"/>
+        <CursorPos X="24" Y="211"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\Componentes\Horse\horse-cors\src\Horse.CORS.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="54"/>
+        <CursorPos Y="94"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\Componentes\HcComponentes\packages\lazarus\hccomponentesbaserun.pas"/>
+        <UnitName Value="HcComponentesBaseRun"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="21"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\Magno_YouTube\Boteco_Horse\src\base\formapgto.provider.pas"/>
+        <UnitName Value="FormaPgto.Provider"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="92"/>
+        <CursorPos X="51" Y="98"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\Magno_YouTube\Boteco_Horse\src\base\json.result.pas"/>
+        <UnitName Value="Json.Result"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="77"/>
+        <CursorPos Y="108"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="json.result.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Json.Result"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="78"/>
+        <CursorPos X="3" Y="104"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="22" Column="14" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="205" TopLine="190"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="22" Column="14" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="192" Column="3" TopLine="178"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="23" Column="17" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="82" Column="33" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="295" Column="5" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="271" Column="77" TopLine="256"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="22" Column="14" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="210" TopLine="186"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="17" Column="14" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="164" Column="52" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="18" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="275" Column="38" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="23" Column="14" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="AgendaLaz.lpr"/>
+        <Caret Line="17" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="AgendaLaz.lpr"/>
+        <Caret Line="23" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="17" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="146" Column="44" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="18" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="254" Column="45" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="17" Column="14" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="156" Column="3" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="23" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="282" TopLine="274"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="285" Column="57" TopLine="274"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="193" Column="21" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="AgendaLaz.lpr"/>
+        <Caret Line="23" Column="104"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="196" Column="39" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="app.service.pas"/>
+        <Caret Line="202" Column="46" TopLine="187"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

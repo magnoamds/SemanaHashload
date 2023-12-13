@@ -1,0 +1,26 @@
+object DM: TDM
+  OldCreateOrder = False
+  Height = 379
+  HorizontalOffset = 434
+  VerticalOffset = 119
+  Width = 440
+  object ZConnection: TZConnection
+    ControlsCodePage = cCP_UTF8
+    AutoEncodeStrings = True
+    ClientCodepage = 'ISO8859_1'
+    Properties.Strings = (
+      'AutoEncodeStrings=True'
+      'controls_cp=CP_UTF8'
+      'codepage=ISO8859_1'
+    )
+    HostName = 'localhost'
+    Port = 3050
+    Database = 'D:\Magno_Vue\magno\Back-end\database\DB_AGENDA.FDB'
+    User = 'SYSDBA'
+    Password = 'masterkey'
+    Protocol = 'firebird'
+    LibraryLocation = 'C:\Windows\System32\FBCLIENT.DLL'
+    Left = 56
+    Top = 32
+  end
+end
